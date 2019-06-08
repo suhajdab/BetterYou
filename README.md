@@ -1,4 +1,4 @@
-# References and attribution for "Better You" talk during TEDxSlottsparken June 2019
+# Attribution and references for "Better You" talk during TEDxSlottsparken June 2019
 
 ## Attribution
 
