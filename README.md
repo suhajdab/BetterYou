@@ -13,6 +13,8 @@ The Rejuvenation Roadmap from [Lifespan.io](https://www.lifespan.io/the-rejuvena
 
 ## References
 
-Tithonus Error: [Why a Longer Life Does Not Mean Longer Decrepitude](https://www.leafscience.org/why-a-longer-life-does-not-mean-longer-decrepitude/)
+Tithonus Error – [Why a Longer Life Does Not Mean Longer Decrepitude](https://www.leafscience.org/why-a-longer-life-does-not-mean-longer-decrepitude/)
 
 “Be curios, be humble” – Anna Rosling Rönnlund, [Hejaframtiden podcast](http://hejaframtiden.se/heja-framtiden-podcast-60-anna-rosling-ronnlund/)
+
+80% of our oceans are unexplored – [How much of the ocean have we explored](https://oceanservice.noaa.gov/facts/exploration.html)
