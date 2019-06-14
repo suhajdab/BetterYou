@@ -25,3 +25,7 @@ Further report based on the data downloaded from **23andme** from [FoundMyFitnes
 Blood test by [Werlabs](https://werlabs.se/)
 
 Personalized lifestyle recommendations based on both DNA results and blood tests from [InsideTracker](https://www.insidetracker.com/)
+
+### Disclaimer
+
+*I am not affiliated with any of the above organizations and services*
