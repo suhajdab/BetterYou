@@ -18,3 +18,10 @@ Tithonus Error – [Why a Longer Life Does Not Mean Longer Decrepitude](https://
 “Be curios, be humble” – Anna Rosling Rönnlund, [Hejaframtiden podcast](http://hejaframtiden.se/heja-framtiden-podcast-60-anna-rosling-ronnlund/)
 
 80% of our oceans are unexplored – [How much of the ocean have we explored](https://oceanservice.noaa.gov/facts/exploration.html), National Ocean Service
+
+DNA test by [23andme](https://www.23andme.com/en-eu/)
+Further report based on the data downloaded from **23andme** from [FoundMyFitness](https://www.foundmyfitness.com/genetics)
+
+Blood test by [Werlabs](https://werlabs.se/)
+
+Personalized lifestyle recommendations based on both DNA results and blood tests from [InsideTracker](https://www.insidetracker.com/)
