@@ -26,6 +26,11 @@ Blood test by [Werlabs](https://werlabs.se/)
 
 Personalized lifestyle recommendations based on both DNA results and blood tests from [InsideTracker](https://www.insidetracker.com/)
 
+## Contact
+
+If you have watched my talk, I'd love to hear from you, what you thought about it.
+Feel free to get in touch on [facebook](https://www.facebook.com/IoTnerd), [linkedin](https://www.linkedin.com/in/suhajdab/), [twitter](https://twitter.com/IoTnerd)
+
 ### Disclaimer
 
 *I am not affiliated with any of the above organizations and services*
